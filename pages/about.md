@@ -7,8 +7,14 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi! I am **{{ site.author.name }}** :wave:,<br>
+Hey there, I'm Suparna! I'm currently pursuing an undergraduate degree in Computer Science at PES University, and am in my exploratory era on the technical front!
+
+Presently, I am nurturing my interest in domains including but not limited to operating systems, networking and IoT! Given a choice, I prefer hands-on experiences with projects over textbook-learning. 
+
+I enjoy public speaking, debating, writing poetry, cooking, and trying new things! 
+
+I am very strongly motivated to help the underprivileged reach their full potential, and hope to use my technical acumen to turn this goal into a reality!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
