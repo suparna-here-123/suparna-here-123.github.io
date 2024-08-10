@@ -2,7 +2,7 @@
 title: My Brief Encounter with Stendahl Syndrome
 tags: [Article, Experience]
 style: fill
-color: danger
+color: warning
 description: All of us have at some point in our lives been overwhelmed by an incident or view, that induced a medley of feelings, all at once. Here's an account of one of my experiences like this..
 (P.S. - This phenonmena is termed 'Stendahl Syndrome')
 ---

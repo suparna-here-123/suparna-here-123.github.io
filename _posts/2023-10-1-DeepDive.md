@@ -1,8 +1,8 @@
 ---
 title: A Deep Dive into Generative AI
 tags: [Tech Blog, Article]
-style: border
-color: primary
+style: fill
+color: success
 description: What is GenAI and how is it changing the world?
 ---
 
