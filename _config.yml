@@ -24,28 +24,11 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
-# dribbble          : your_username
+  name              : Supanra Prasad
+  image             : https://metricool.com/wp-content/uploads/Screen-Shot-2023-06-28-at-2.21.12-PM.png
   email             : pes1202201025@pesu.pes.edu
-  facebook          : your_username
   github            : suparna-here-123
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
-
+  linkedin          : suparna-prasad
 
 ### Posts ###
 permalink: /blog/:title

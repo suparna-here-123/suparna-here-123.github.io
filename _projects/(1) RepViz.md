@@ -1,0 +1,7 @@
+---
+name: Replay Clocks for IoT
+tools: [Docker, Kubernetes, C++, Python]
+image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+description: Simulated an Edge Database ecosystem to apply and test working and efficiency of a new type of clock mechanism for distributed systems with unreliable connectivity.
+external_url: https://github.com/PES-Innovation-Lab/RepViz
+---
