@@ -54,12 +54,12 @@ analytics:
 ### Defaults for collections ###
 defaults:
   - scope:
-      path: "suparna-here-123/suparna-here-123.github.io"
+      path: "suparna-here-123/suparna-here-123.github.io/"
       type: "projects"
     values:
       layout: "page"
   - scope:
-      path: "suparna-here-123/suparna-here-123.github.io"
+      path: "suparna-here-123/suparna-here-123.github.io/"
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
