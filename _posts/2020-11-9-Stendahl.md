@@ -1,10 +1,9 @@
 ---
 title: My Brief Encounter with Stendahl Syndrome
-tags: [Article, Experience]
+tags : [Article, Experience]
 style: fill
-color: secondary
-description: All of us have at some point in our lives been overwhelmed by an incident or view, that induced a medley of feelings, all at once. Here's an account of one of my experiences like this..
-(P.S. - This phenonmena is termed 'Stendahl Syndrome')
+color: primary
+description: All of us have at some point in our lives been overwhelmed by an incident or view, that induced a medley of feelings, all at once. Here's an account of one such experience of mine. <br>(P.S. - This phenonmena is termed 'Stendahl Syndrome')
 ---
 
 This summer break, after a grueling two years of eleventh and twelfth grade, my

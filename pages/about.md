@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi! I am **{{ site.author.name }}** :wave:,<br>
-Hey there, I'm Suparna! I'm currently pursuing an undergraduate degree in Computer Science at PES University, and am in my exploratory era on the technical front!
+Hey there! I am **{{ site.author.name }}** :wave:,<br>
+I'm currently pursuing an undergraduate degree in Computer Science at PES University, and am in my exploratory era on the technical front!
 
 Presently, I am nurturing my interest in domains including but not limited to operating systems, networking and IoT! Given a choice, I prefer hands-on experiences with projects over textbook-learning. 
 

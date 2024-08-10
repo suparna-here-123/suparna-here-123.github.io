@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
+- name: Poetry
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Public Speaking
   percentage: 90
   color: success
