@@ -1,17 +1,11 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, PES University
+  from: 2022
+  to: 2026
+  description: Majoring in Computer Science Engineering. My technical interests span across distributed
+               and embedded systems, IoT, computer networking and machine learning.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Sri Kumaran Children's Home - Senior Secondary School
+  from: 2020
+  to: 2022
+  description: Studied Physics, Chemistry, Math and Computer Science. Secured a rank in the top 300
+               COMED-K, a state-wide entrance exam for engineering institutions.
