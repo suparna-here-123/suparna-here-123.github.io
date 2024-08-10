@@ -3,7 +3,7 @@ title               : SuparnaPrasad
 description         : >-
                       Welcome to my blog!,
                       Let me introduce myself :)
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "https://suparna-here-123.github.io/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : suparna-here-123/suparna-here-123.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Supanra Prasad
+  name              : Suparna Prasad
   image             : https://metricool.com/wp-content/uploads/Screen-Shot-2023-06-28-at-2.21.12-PM.png
   email             : pes1202201025@pesu.pes.edu
   github            : suparna-here-123
@@ -54,12 +54,12 @@ analytics:
 ### Defaults for collections ###
 defaults:
   - scope:
-      path: ""
+      path: "suparna-here-123/suparna-here-123.github.io"
       type: "projects"
     values:
       layout: "page"
   - scope:
-      path: ""
+      path: "suparna-here-123/suparna-here-123.github.io"
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
