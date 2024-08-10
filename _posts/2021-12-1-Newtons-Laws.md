@@ -2,7 +2,7 @@
 title: Newton's Laws Of Motion - A Poem
 tags: [Poem, Science]
 style: fill
-color: dark
+color: primary
 description: A poem explaining Isaac Newton's Laws of Motion, written as part of an 'Art-Integrated Learning' Program in high school!
 ---
 
