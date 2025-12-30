@@ -1,5 +1,5 @@
 ---
-title: A Deep Dive Vector Indexes
+title: A Deep Dive into Vector Indexes
 tags: [Deep Dive, Tech Blog, Article]
 style: fill
 color: success
@@ -9,7 +9,7 @@ description: Vector indexes, inner workings and my questions :P
 ### Questions I had...
 
 1) Is it okay to add vectors with dimensions originally less than the required dimensions of an index, by padding with zeros? <br><br>
-Ans :  Mathematically, increasing the dimensions of a vector by padding with zeros does not change the magnitude pf the vector(retains values as is) and can be compared with other equal-dimension vectors using a similarity measure like cosine similiarity. Though this checks out mathematically, the meaning that the zeros give the vector is... just garbage. Embedding models have a fixed output dimension because each one contributes denotes some valuable feature of the input text - this can reduce  accuracy of the search results as the similarity is based on some garbage values.
+Ans :  Mathematically, increasing the dimensions of a vector by padding with zeros does not change the magnitude of the vector(retains values as is) and can be compared with other equal-dimension vectors using a similarity measure like cosine similiarity. Though this checks out mathematically, the meaning that the zeros give the vector is... just garbage. Embedding models have a fixed output dimension because each one denotes some valuable feature of the input text - this can reduce  accuracy of the search results as the similarity is based on some garbage values.
 
 2) Difference between clusters and namespaces <br><br>
 Ans : I am using the Pinecone vector database as a reference and the concept of <i>namespace</i> in it refers to a <i>logical partitioning</i> of vectors within the index, and can be <b>managed by the user</b> to logically organize the vectors based on what they represent so that searches can target a specific namespaces and speed up the process. <br>

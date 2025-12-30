@@ -1,0 +1,8 @@
+---
+name: PantryPal
+tools: [Python, Streamlit, Ollama, Langchain]
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCx1gyoIoC5gEYzaVF_YFDqPxvL0m8HLf4Qg&s
+description:  A smart recipe assistant that can suggest recipes using images of your fridge's contents, preserve indigenous recipes by recommending regional, 
+              lesser-known dishes within user groups with similar "tastes" (pun intended) and guide users step-by-step through cooking via an interactive chatbot.
+external_url: https://github.com/suparna-here-123/GourmetGirls
+---

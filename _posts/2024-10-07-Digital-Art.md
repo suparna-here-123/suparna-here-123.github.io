@@ -3,7 +3,7 @@ name: Sleepy C
 tags: [Digital Art]
 style: fill
 color: info
-description: Here are my digital sketches of cute canines!
+description: Here are my digital sketches!
 ---
 <br>
 
